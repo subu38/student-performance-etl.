@@ -1,0 +1,12 @@
+student_id,student_name,class_name,math_score,science_score,english_score
+S001,Aarav Sharma,Class 10A,92,88,95
+S002,Diya Patel,Class 10A,78,84,81
+S003,Rohan Kumar,Class 10B,65,72,69
+S004,Ananya Singh,Class 10B,98,96,94
+S005,Kabir Das,Class 10A,55,61,58
+S006,Meera Joshi,Class 10C,87,91,89
+S007,Arjun Verma,Class 10C,73,,77
+S008,Isha Gupta,Class 10B,82,79,85
+S009,Vihaan Rao,Class 10C,105,88,90
+S010,Sara Khan,Class 10A,91,93,96
+S010,Sara Khan,Class 10A,91,93,96
