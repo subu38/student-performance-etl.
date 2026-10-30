@@ -152,19 +152,7 @@ GROUP BY class_name;
 - Change grade boundaries in `src/transform.py`.
 - Add new reports in `src/pipeline.py`.
 
-## GitHub upload
-
-### Option A: GitHub website (no Git commands)
-
-1. Sign in at https://github.com/.
-2. Click **New repository**.
-3. Enter `student-performance-etl` as the repository name.
-4. Choose **Public** (or Private if preferred), then click **Create repository**.
-5. In the new repository, choose **Add file → Upload files**.
-6. Upload the project files and folders from this extracted project directory. Do not upload `.venv`, the database, logs, or generated reports.
-7. Click **Commit changes**.
-
-### Option B: Git commands
+### Option A: Git commands
 
 Create an empty repository on GitHub named `student-performance-etl`, then run these commands from this project folder:
 
